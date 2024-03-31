@@ -1,5 +1,5 @@
 # SCPListBot
-![downloads](https://img.shields.io/github/downloads/SrSisco/RainbowRun/total?style=for-the-badge)
+![downloads](https://img.shields.io/github/downloads/SrSisco/SCPListBot/total?style=for-the-badge)
 
 ## Sobre el bot
 Bot de Discord escrito en python que obtiene información sobre los servidores.
